@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Runtime data (gets recreated by the app)
+bookings.json
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
