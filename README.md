@@ -150,10 +150,5 @@ If you want this to become a real product, here's the upgrade path:
 - Picsum for placeholder images
 - Playfair Display + DM Sans (Google Fonts)
 
-## License
 
-For demo and educational purposes. Adapt freely for your own projects.
-
----
-
-Built in Islamabad, Pakistan. 🇵🇰
+Built by Muhammad Talha
